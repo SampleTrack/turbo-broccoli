@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+motor
+dnspython
+apscheduler
+aiohttp
+requests
